@@ -15,3 +15,4 @@ Strong understanding of advanced programming topics including interactive touch/
 
 I am a passionate video gamer and content creator. I run a gaming channel on YouTube and social media called 16-Bit Otaku, with content created using Adobe Photoshop CC, iMovie, video cameras, and media editing software. I also ran a website for over 10 years, but due to bandwidth issues, I had to retire the website. You can go to youtube.com/@16bitOtaku to check out some of the content created.
 
+I recently worked at GEICO, where I was responsible for designing, developing, implementing, and maintaining key innovative iOS features for GEICO’s mobile application.   During my tenure at GEICO, I analyzed and converted requirements into solutions, created UI/UX designs, wrote testable code, provided functional documentation, and conducted rigorous quality assurance testing to ensure compliance with corporate standards.
